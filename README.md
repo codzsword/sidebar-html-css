@@ -1,4 +1,4 @@
-![Logo]([https://raw.githubusercontent.com/codzsword/portfolio-website/main/Preview-Image.png](https://raw.githubusercontent.com/codzsword/sidebar-html-css/main/Sidebar%20Menu%20Using%20CSS.png))
+![Logo]([https://raw.githubusercontent.com/codzsword/sidebar-html-css/main/Sidebar%20Menu%20Using%20CSS.png]))
 
 # Sidebar Menu Using CSS Only
 
